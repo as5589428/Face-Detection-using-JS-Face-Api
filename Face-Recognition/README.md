@@ -5,7 +5,7 @@ This app is developed using ReactJS and faceapi.js. The faceapi.js library is bu
 ## 
 
 <div align="center">
-  <img src="https://github.com/as5589428/Face-Detection-using-JS-Face-Api/blob/main/Face-Recognition/Face%20detection%202.png" height="280" />
+  <img src="https://github.com/as5589428/Face-Detection-using-JS-Face-Api/blob/main/Face-Recognition/Face%20detection.png" height="280" />
   
   <img src="https://github.com/as5589428/Face-Detection-using-JS-Face-Api/blob/main/Face-Recognition/Face%20detection%202.png" height="280" />
 </div>
